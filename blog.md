@@ -103,7 +103,7 @@ tools = [
 agent = initialize_agent(tools, llm)
 agent.run("Search latest AI trends")
 
-```
+``
 Agents dynamically decide which tool to use based on the user query, making them powerful for real-world applications.
 
 🔹 6. Document Loaders & Vector Stores
