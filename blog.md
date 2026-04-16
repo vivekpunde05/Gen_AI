@@ -86,7 +86,6 @@ print(memory.load_memory_variables({}))
 Memory enables conversational AI systems like chatbots to maintain continuity.
 
 🔹 5. Agents
-
 Agents introduce decision-making capability into AI systems.
 
 ```
