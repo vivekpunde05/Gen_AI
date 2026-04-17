@@ -98,7 +98,6 @@ tools = [
         description="Search tool"
     )
 ]
-
 agent = initialize_agent(tools, llm)
 agent.run("Search latest AI trends")
 
