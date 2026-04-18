@@ -39,7 +39,6 @@ llm = OpenAI(api_key="your_api_key")
 print(llm.invoke("What is Artificial Intelligence?"))
 
 ```
-
 🔹 2. Prompt Templates
 
 Prompt templates allow dynamic and reusable prompts instead of hardcoding inputs.
