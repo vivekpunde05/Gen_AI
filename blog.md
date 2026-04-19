@@ -7,7 +7,6 @@ LangChain is a powerful framework designed to build applications powered by Larg
 LangChain solves this problem by enabling modular design of AI systems using components like prompts, chains, memory, and agents. It allows developers to move from simple LLM usage to building intelligent pipelines capable of reasoning and decision-making.
 
 ---
-
 ## Why LangChain?
 
 Traditional LLM usage:
