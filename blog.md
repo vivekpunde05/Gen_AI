@@ -15,7 +15,6 @@ Traditional LLM usage:
 Input → LLM → Output
 
 LangChain approach:
-
 Input → Prompt → Chain → Agent → Tool → Output
 
 This enables:
