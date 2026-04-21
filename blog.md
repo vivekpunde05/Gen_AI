@@ -11,7 +11,6 @@ LangChain solves this problem by enabling modular design of AI systems using com
 ## Why LangChain?
 
 Traditional LLM usage:
-
 Input → LLM → Output
 
 LangChain approach:
