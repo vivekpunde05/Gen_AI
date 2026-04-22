@@ -50,6 +50,7 @@ template = PromptTemplate(
     template="Explain {topic} simply"
 )
 
+
 print(template.format(topic="Machine Learning"))
 
 ```
