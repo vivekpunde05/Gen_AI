@@ -24,7 +24,6 @@ This enables:
 LangChain is important because modern AI applications require more than a single response. Systems need to process information step-by-step, maintain context, and interact with external tools. LangChain provides a structured way to build such intelligent systems.
 
 ---
-
 ## Core Components of LangChain
 
 ### 🔹 1. LLMs & Chat Models
