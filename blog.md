@@ -89,6 +89,7 @@ Agents introduce decision-making capability into AI systems.
 ```
 
 from langchain.agents import initialize_agent, Tool
+
 tools = [
     Tool(
         name="Search",
